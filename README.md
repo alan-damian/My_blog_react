@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# INSTALAR LAS DEPENDENCIAS DE REACT (NPM INSTALL) ANTES DE USAR.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
