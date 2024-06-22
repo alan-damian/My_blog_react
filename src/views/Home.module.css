@@ -1,0 +1,13 @@
+.container {
+    background:url("../assets/img/login_bg.png") center center/cover no-repeat local;
+    height: 100vh;
+    background-position: top;
+    background-attachment: fixed;
+
+}
+
+div {
+    width: -webkit-fill-available;
+    overflow: hidden;
+    
+}

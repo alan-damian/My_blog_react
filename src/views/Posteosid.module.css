@@ -1,0 +1,6 @@
+.container {
+    background:url("../assets/img/login_bg.png") center center/cover no-repeat local;
+    background-position: top;
+    height: 95vh;
+    background-attachment: fixed;
+}

@@ -1,0 +1,10 @@
+.container {
+    background:url("../assets/img/login_bg.png") center center/cover no-repeat local;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+button {
+    color: greenyellow;
+}

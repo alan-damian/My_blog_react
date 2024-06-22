@@ -1,0 +1,20 @@
+* {
+    text-decoration: none;
+    color: aliceblue;
+    
+    
+}
+
+button {
+    appearance: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+#tipografia {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
